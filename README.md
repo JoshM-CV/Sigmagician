@@ -32,7 +32,7 @@ Sigmagician is a Python utility for converting Sigma detection rules into huntin
 ## Installation
 
 1. Clone the repository or copy the `sigmagician.py` script.
-2. Install required Python packages:
+2. Install required Python packages (On Windows use: py -m pip):
 
 ```bash
 pip install sigma-cli pyyaml pypandoc
