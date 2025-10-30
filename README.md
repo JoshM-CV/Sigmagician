@@ -79,5 +79,5 @@ Do you want to export the hunting pack as PDF? (y/n): y
 
 ## License
 
-MIT License
+GNU V3.0
 
